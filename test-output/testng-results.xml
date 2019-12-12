@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13015" started-at="2019-12-10T22:39:55Z" finished-at="2019-12-10T22:40:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13015" started-at="2019-12-10T22:39:55Z" finished-at="2019-12-10T22:40:08Z">
+      <class name="com.ebay.DataDrivenFramework.VerifyLogin.TC001_VerifyLogin">
+        <test-method status="PASS" signature="initializeThis()[pri:0, instance:com.ebay.DataDrivenFramework.VerifyLogin.TC001_VerifyLogin@3532ec19]" name="initializeThis" is-config="true" duration-ms="6223" started-at="2019-12-10T14:39:55Z" finished-at="2019-12-10T14:40:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeThis -->
+        <test-method status="PASS" signature="getLogger()[pri:0, instance:com.ebay.DataDrivenFramework.VerifyLogin.TC001_VerifyLogin@3532ec19]" name="getLogger" is-config="true" duration-ms="3" started-at="2019-12-10T14:40:01Z" finished-at="2019-12-10T14:40:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLogger -->
+        <test-method status="PASS" signature="validLogin()[pri:0, instance:com.ebay.DataDrivenFramework.VerifyLogin.TC001_VerifyLogin@3532ec19]" name="validLogin" duration-ms="6770" started-at="2019-12-10T14:40:01Z" finished-at="2019-12-10T14:40:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+        <test-method status="PASS" signature="endThis()[pri:0, instance:com.ebay.DataDrivenFramework.VerifyLogin.TC001_VerifyLogin@3532ec19]" name="endThis" is-config="true" duration-ms="0" started-at="2019-12-10T14:40:08Z" finished-at="2019-12-10T14:40:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endThis -->
+      </class> <!-- com.ebay.DataDrivenFramework.VerifyLogin.TC001_VerifyLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
